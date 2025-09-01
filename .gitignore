@@ -72,9 +72,10 @@ yarn-debug.log*
 # My Ignore Rules
 /dataset/data/*
 
-./data/.env
-/data/.env
-data/.env
-/data/.env.local
-.env
 
+dataset/.env
+/dataset/.env
+./dataset/.env
+/dataset/data/.env
+dataset/.env
+/dataset/.env
