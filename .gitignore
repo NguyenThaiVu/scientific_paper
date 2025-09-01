@@ -1,1 +1,6 @@
 /dataset/data/*
+
+env
+./env
+*.env
+.env
