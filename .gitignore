@@ -76,4 +76,5 @@ yarn-debug.log*
 /data/.env
 data/.env
 /data/.env.local
+.env
 
