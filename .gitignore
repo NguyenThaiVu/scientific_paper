@@ -1,6 +1,4 @@
 /dataset/data/*
 
-env
-./env
-*.env
-.env
+./data/.env
+/data/.env
